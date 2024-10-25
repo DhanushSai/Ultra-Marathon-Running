@@ -22,6 +22,10 @@ The dataset includes the following columns:
 - **Athlete average speed (object)**: Average speed of athletes in km/h.
 - **Athlete ID (int64)**: Unique numerical ID representing each runner.
 
+## Dataset Source
+
+The data used in this project is sourced from Kaggle. You can find the dataset at the following link: [Kaggle Ultramarathon Dataset](https://www.kaggle.com/datasets/aiaiaidavid/the-big-dataset-of-ultra-marathon-running).
+
 ## Methodology
 
 ### Data Cleaning
